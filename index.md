@@ -25,7 +25,7 @@
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 tell a story](https://trinket.io/html/b343e09381)
-- [Project 3 sunrise project][(http://(https://trinket.io/html/1a1620ecbe)
+- [Project 3 sunrise project](http://(https://trinket.io/html/1a1620ecbe)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
