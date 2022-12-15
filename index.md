@@ -19,7 +19,7 @@
 [albert estine](http://example.com/)
 <img src="images/albert.png?raw=true"/>
 
-[Project 5 Title](http://example.com/)
+[the actor project](http://example.com/)
 <img src="images/Screen Shot 2022-12-15 at 9.14.21 AM.png?raw=true"/>
 ### my web design project
 
