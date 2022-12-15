@@ -30,6 +30,9 @@
 - [Project 5 the sticker project](https://trinket.io/html/0d129b493c)
 
 ---
+### my midterm project
+
+- [midterm project - dog-shelter] (https://easy-lovley-fun.w3spaces.com/index.html)
 
 
 
