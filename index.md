@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 popart](/sample_page)
-<img src="images/popart.png?raw=true"/>
+<img src="images/the pop art.png?raw=true"/>
 
 ---
 [the orb project 2](/pdf/sample_presentation.pdf)
