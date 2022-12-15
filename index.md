@@ -8,7 +8,7 @@
 <img src="images/popart.png?raw=true"/>
 
 ---
-[the orbproject 2](/pdf/sample_presentation.pdf)
+[the orb project 2](/pdf/sample_presentation.pdf)
 <img src="images/the orb .png?raw=true"/>
 
 ---
