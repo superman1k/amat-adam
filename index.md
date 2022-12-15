@@ -20,7 +20,7 @@
 <img src="images/albert.png?raw=true"/>
 
 [Project 5 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2022-12-15 at 9.14.21 AM.png?raw=true"/>
 ### my web design project
 
 - [Project 1 all about me](https://trinket.io/html/101b1068d3)
