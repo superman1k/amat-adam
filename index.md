@@ -12,11 +12,11 @@
 <img src="images/the orb .png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[the coffee project](http://example.com/)
 <img src="images/the cup of joe.png?raw=true"/>
 
 ---
-[Project 4 Title](http://example.com/)
+[albert estine](http://example.com/)
 <img src="images/albert.png?raw=true"/>
 
 [Project 5 Title](http://example.com/)
